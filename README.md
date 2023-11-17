@@ -1,4 +1,4 @@
-Using React Js.
+Using React Js
 
 # Getting Started with Create React App
 
